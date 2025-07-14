@@ -92,7 +92,7 @@ export default function App() {
                 Tech Insights & Tips
               </span>
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
-                Your Go-To Resource for Technology News, Tips, and Educational Content
+                Your Go-To Resource for Technology News, Tips, & Educational Content
               </h1>
               <p className="text-lg text-gray-600">
                 Stay ahead in the tech world with our curated insights and practical guides.
